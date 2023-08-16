@@ -935,6 +935,7 @@ Updatable
 Uppercased
 Uptime
 Uptrace
+USearch
 UserID
 Util
 VARCHAR
@@ -1570,6 +1571,7 @@ hdfsCluster
 heredoc
 heredocs
 hiveHash
+hnsw
 holistics
 homebrew
 hopEnd
@@ -2499,6 +2501,7 @@ uring
 url
 urlCluster
 urls
+usearch
 userspace
 userver
 utils
